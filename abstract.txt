@@ -1,0 +1,2 @@
+C++ was developed over 30 years ago and has undergone many changes and five standardizations over that time.
+This talk will focus on two of the most recent standards (C++11, C++14) which have seen big changes in C++ best practice; changes which focus on a safer language, but without the overhead of other 'safe' languages. It is apparent that some progress has been made on the idea of safety and consistency and I will discuss the impact of individual changes in this respect. 
