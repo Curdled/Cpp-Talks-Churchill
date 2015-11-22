@@ -10,3 +10,7 @@ void func(int i) {
 void func(char* s) {
   cout << "func char*" << endl;
 }
+
+int main() {
+  func(NULL);
+}
