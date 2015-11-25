@@ -31,5 +31,5 @@ void f( C& w ) {
 }
 
 int main() {
-  f(*g_p);
+  f(*pin);
 }
